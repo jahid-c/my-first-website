@@ -65,3 +65,10 @@ li a{
     margin: 7px;
     display: block;
 }
+.footer{
+    color: red;
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    font-size: 20px;
+}
